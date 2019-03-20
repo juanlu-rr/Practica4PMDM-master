@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticaTema4PMDM</string>
+    <string name="verificar">Verify</string>
+    <string name="app_name3">Moving images</string>
+    <string name="app_name4">Selecting images</string>
+    <string name="app_name1">Prime numbers</string>
+    <string name="app_name2">Hit game</string>
+    <string name="button">Calculate</string>
+    <string name="numero">Number:</string>
+    <string name="Amapola">Joaquin</string>
+    <string name="jazmin">Jasmine</string>
+    <string name="rosa">Rose</string>
+    <string name="tulipan">Tulip</string>
+    <string name="pais2">Spain</string>
+    <string name="pais5" translatable="false">Argentina</string>
+    <string name="pais7">Brasil</string>
+    <string name="pais8">Grecia</string>
+    <string name="pais9">Turquía</string>
+    <string name="pais10">Ireland</string>
+    <string name="capital1">París</string>
+    <string name="capital3">Tokio</string>
+    <string name="capital4">Pekín</string>
+    <string name="capital6">Bogotá</string>
+    <string name="capital8">Athens</string>
+    <string name="capital9">Ankara</string>
+    <string name="capital10">Dublin</string>
+    <string name="pais1">France</string>
+    <string name="pais3">Japan</string>
+    <string name="pais4">China</string>
+    <string name="pais6">Colombia</string>
+    <string name="capital5">Buenos Aires</string>
+    <string name="prime">The number is prime</string>
+    <string name="noprime">The number is not prime</string>
+    <string name="capital7">Rio de Janeiro</string>
+    <string name="capital2" translatable="false">Madrid</string>
+</resources>

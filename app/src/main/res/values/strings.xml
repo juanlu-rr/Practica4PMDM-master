@@ -1,0 +1,39 @@
+
+<resources>
+    <string name="app_name">Juego de Aciertos</string>
+    <string name="app_name3">Desplazando Imágenes</string>
+    <string name="app_name1">Números primos</string>
+    <string name="app_name2">Juego de aciertos</string>
+    <string name="app_name4">Seleccionando imágenes</string>
+    <string name="button">Calcular</string>
+    <string name="textview" translatable="false" />
+    <string name="numero">Número:</string>
+    <string name="Amapola">Amapola</string>
+    <string name="jazmin">Jazmín</string>
+    <string name="rosa">Rosa</string>
+    <string name="tulipan">Tulipán</string>
+    <string name="pais1">Francia</string>
+    <string name="pais2">España</string>
+    <string name="pais3">Japón</string>
+    <string name="pais4">China</string>
+    <string name="pais5">Argentina</string>
+    <string name="pais6">Colombia</string>
+    <string name="pais7">Brasil</string>
+    <string name="pais8">Grecia</string>
+    <string name="pais9">Turquía</string>
+    <string name="pais10">Irlanda</string>
+    <string name="capital1">Paris</string>
+    <string name="capital2" translatable="false">Madrid</string>
+    <string name="capital3" translatable="false">Tokio</string>
+    <string name="capital4" translatable="false">Pekín</string>
+    <string name="capital5">Buenos Aires</string>
+    <string name="capital6">Bogotá</string>
+    <string name="capital7" translatable="false">Rio de Janeiro</string>
+    <string name="capital8">Atenas</string>
+    <string name="capital9" translatable="false">Ankara</string>
+    <string name="capital10">Dublín</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="verificar">Verificar</string>
+    <string name="prime">El número es primo</string>
+    <string name="noprime">El número no es primo</string>
+</resources>
